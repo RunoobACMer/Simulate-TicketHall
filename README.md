@@ -2,7 +2,8 @@
 数据结构作业
 
 问题描述：
-![问题描述](./picture/description.png)
+![](./picture/description.png)
+
 
 功能预览：
 三分算法求解
